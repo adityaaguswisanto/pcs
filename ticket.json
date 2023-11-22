@@ -1,0 +1,81 @@
+{
+  "status": 200,
+  "message": "Sukses",
+  "data": {
+    "list": [
+      {
+        "id_ticket": 1,
+        "ticket": "10451174",
+        "place": "Simpang Raya T3",
+        "address": "BANDARA SOETTA TERMINAL 3, CENGKARENG BARAT, KEL., JAKARTA BARAT, 1173",
+        "date": "2023-11-14T09:38:52.114Z",
+        "condition": "Corrective Maintenance",
+        "risk": {
+          "id_risk": 1,
+          "risk": "High"
+        },
+        "bundle": {
+          "id_bundle": "2111714124",
+          "status": "On Progress",
+          "color": "0xFF089EEC"
+        }
+      },
+      {
+        "id_ticket": 2,
+        "ticket": "10476139",
+        "place": "Simpang Raya T3",
+        "address": "BANDARA SOETTA TERMINAL 3, CENGKARENG BARAT, KEL., JAKARTA BARAT, 1173",
+        "date": "2023-11-14T09:38:52.114Z",
+        "condition": "Preventive Maintenance",
+        "risk": {
+          "id_risk": 3,
+          "risk": "Low"
+        },
+        "bundle": {
+          "id_bundle": "2111714124",
+          "status": "Pending",
+          "color": "0xFFFFC413"
+        }
+      },
+      {
+        "id_ticket": 3,
+        "ticket": "10476543",
+        "place": "Simpang Raya T3",
+        "address": "BANDARA SOETTA TERMINAL 3, CENGKARENG BARAT, KEL., JAKARTA BARAT, 1173",
+        "date": "2023-11-14T09:38:52.114Z",
+        "condition": "Installation - Replacement",
+        "risk": {
+          "id_risk": 2,
+          "risk": "Medium"
+        },
+        "bundle": {
+          "id_bundle": "2111714124",
+          "status": "Done",
+          "color": "0xFF63C838"
+        }
+      },
+      {
+        "id_ticket": 4,
+        "ticket": "10471114",
+        "place": "Simpang Raya T3",
+        "address": "BANDARA SOETTA TERMINAL 3, CENGKARENG BARAT, KEL., JAKARTA BARAT, 1173",
+        "date": "2023-11-14T09:38:52.114Z",
+        "condition": "Corrective Maintenance",
+        "risk": {
+          "id_risk": 4,
+          "risk": "Rendah"
+        },
+        "bundle": {
+          "id_bundle": "2111714124",
+          "status": "Negative",
+          "color": "0xFFF18F26"
+        }
+      }
+    ]
+  },
+  "meta_data": {
+    "count": 4,
+    "pages": "1",
+    "limit": "10"
+  }
+}
