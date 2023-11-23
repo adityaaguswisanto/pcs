@@ -21,27 +21,27 @@
         }
       ],
       "chart": {
-        "start" : 300,
+        "start": 300,
         "finish": 600,
-        "percentage" : 50,
-        "list" : [
-        {
-          "rate": 180,
-          "color": "0xFF63C838"
-        },
-        {
-          "rate": 120,
-          "color": "0xFFF18F26"
-        },
-        {
-          "rate": 200,
-          "color": "0xFF089EEC"
-        },
-        {
-          "rate": 100,
-          "color": "0xFFFFC413"
-        }
-      ]
+        "percentage": 50,
+        "list": [
+          {
+            "rate": 180,
+            "color": "0xFF63C838"
+          },
+          {
+            "rate": 120,
+            "color": "0xFFF18F26"
+          },
+          {
+            "rate": 200,
+            "color": "0xFF089EEC"
+          },
+          {
+            "rate": 100,
+            "color": "0xFFFFC413"
+          }
+        ]
       }
     },
     "history": null
