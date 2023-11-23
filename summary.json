@@ -20,7 +20,11 @@
           "total": 320
         }
       ],
-      "chart": [
+      "chart": {
+        "start" : 300,
+        "finish": 600,
+        "percentage" : 50,
+        "list" : [
         {
           "rate": 180,
           "color": "0xFF63C838"
@@ -38,6 +42,7 @@
           "color": "0xFFFFC413"
         }
       ]
+      }
     },
     "history": null
   }
